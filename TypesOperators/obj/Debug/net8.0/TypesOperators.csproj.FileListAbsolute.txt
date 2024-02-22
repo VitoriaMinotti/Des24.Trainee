@@ -1,0 +1,14 @@
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\TypesOperators\bin\Debug\net8.0\TypesOperators.exe
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\TypesOperators\bin\Debug\net8.0\TypesOperators.deps.json
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\TypesOperators\bin\Debug\net8.0\TypesOperators.runtimeconfig.json
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\TypesOperators\bin\Debug\net8.0\TypesOperators.dll
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\TypesOperators\bin\Debug\net8.0\TypesOperators.pdb
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\TypesOperators\obj\Debug\net8.0\TypesOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\TypesOperators\obj\Debug\net8.0\TypesOperators.AssemblyInfoInputs.cache
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\TypesOperators\obj\Debug\net8.0\TypesOperators.AssemblyInfo.cs
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\TypesOperators\obj\Debug\net8.0\TypesOperators.csproj.CoreCompileInputs.cache
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\TypesOperators\obj\Debug\net8.0\TypesOperators.dll
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\TypesOperators\obj\Debug\net8.0\refint\TypesOperators.dll
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\TypesOperators\obj\Debug\net8.0\TypesOperators.pdb
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\TypesOperators\obj\Debug\net8.0\TypesOperators.genruntimeconfig.cache
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\TypesOperators\obj\Debug\net8.0\ref\TypesOperators.dll

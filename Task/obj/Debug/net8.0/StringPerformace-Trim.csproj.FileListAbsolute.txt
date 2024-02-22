@@ -1,0 +1,14 @@
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\bin\Debug\net8.0\StringPerformace-Trim.exe
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\bin\Debug\net8.0\StringPerformace-Trim.deps.json
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\bin\Debug\net8.0\StringPerformace-Trim.runtimeconfig.json
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\bin\Debug\net8.0\StringPerformace-Trim.dll
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\bin\Debug\net8.0\StringPerformace-Trim.pdb
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\obj\Debug\net8.0\StringPerformace-Trim.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\obj\Debug\net8.0\StringPerformace-Trim.AssemblyInfoInputs.cache
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\obj\Debug\net8.0\StringPerformace-Trim.AssemblyInfo.cs
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\obj\Debug\net8.0\StringPerformace-Trim.csproj.CoreCompileInputs.cache
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\obj\Debug\net8.0\StringPerformace-Trim.dll
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\obj\Debug\net8.0\refint\StringPerformace-Trim.dll
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\obj\Debug\net8.0\StringPerformace-Trim.pdb
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\obj\Debug\net8.0\StringPerformace-Trim.genruntimeconfig.cache
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\obj\Debug\net8.0\ref\StringPerformace-Trim.dll

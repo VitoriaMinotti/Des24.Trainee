@@ -1,0 +1,14 @@
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\bin\Debug\net8.0\StringPerformace.exe
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\bin\Debug\net8.0\StringPerformace.deps.json
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\bin\Debug\net8.0\StringPerformace.runtimeconfig.json
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\bin\Debug\net8.0\StringPerformace.dll
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\bin\Debug\net8.0\StringPerformace.pdb
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\obj\Debug\net8.0\StringPerformace.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\obj\Debug\net8.0\StringPerformace.AssemblyInfoInputs.cache
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\obj\Debug\net8.0\StringPerformace.AssemblyInfo.cs
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\obj\Debug\net8.0\StringPerformace.csproj.CoreCompileInputs.cache
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\obj\Debug\net8.0\StringPerformace.dll
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\obj\Debug\net8.0\refint\StringPerformace.dll
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\obj\Debug\net8.0\StringPerformace.pdb
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\obj\Debug\net8.0\StringPerformace.genruntimeconfig.cache
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\Task\obj\Debug\net8.0\ref\StringPerformace.dll

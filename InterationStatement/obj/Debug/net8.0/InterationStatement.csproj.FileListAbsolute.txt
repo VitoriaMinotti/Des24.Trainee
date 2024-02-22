@@ -1,0 +1,14 @@
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\InterationStatement\bin\Debug\net8.0\InterationStatement.exe
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\InterationStatement\bin\Debug\net8.0\InterationStatement.deps.json
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\InterationStatement\bin\Debug\net8.0\InterationStatement.runtimeconfig.json
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\InterationStatement\bin\Debug\net8.0\InterationStatement.dll
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\InterationStatement\bin\Debug\net8.0\InterationStatement.pdb
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\InterationStatement\obj\Debug\net8.0\InterationStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\InterationStatement\obj\Debug\net8.0\InterationStatement.AssemblyInfoInputs.cache
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\InterationStatement\obj\Debug\net8.0\InterationStatement.AssemblyInfo.cs
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\InterationStatement\obj\Debug\net8.0\InterationStatement.csproj.CoreCompileInputs.cache
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\InterationStatement\obj\Debug\net8.0\InterationStatement.dll
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\InterationStatement\obj\Debug\net8.0\refint\InterationStatement.dll
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\InterationStatement\obj\Debug\net8.0\InterationStatement.pdb
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\InterationStatement\obj\Debug\net8.0\InterationStatement.genruntimeconfig.cache
+C:\dev\Treinamentos\AulaJeferson\Des24.Trainee\InterationStatement\obj\Debug\net8.0\ref\InterationStatement.dll
